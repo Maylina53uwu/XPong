@@ -15,16 +15,16 @@ For Player 1, aka: left
 Z: Up S: Down
 For Player 2, aka: right
 Up Arrow: Up Down Arrow: Down
+h: displays the help menu
+
 
 # Known Issues
 
-- Sometimes the ball can glitch and stay indefinitely if you don't move your racket. (It also fucks up the score)
-- Controls get inverted when using variables for speed instead of using actual numbers
-- Color of the ball doesn't change when interacting with the blue/right racket.
+- Can't hold 1p control keys while pressing on 2p control keys
 
 # Upcoming Features
 
-- Fixing the 2nd and 3rd known issues (I'm not sure if the 1st one can be easily fixed)
-- Make the ball speed up (and so the rackets) everytime the racket touch the ball
 - Add an explosion sprite on the side of the player who lost
-- Make my math teacher happy xD
+- Decreasing the ball size after hitting it 10 times
+- Adding Multiples Stages?? (basically just changing the background, and maybe the ball as well, i'll see that later)
+- Adding a second ball after hitting it 20 times
